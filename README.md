@@ -1,7 +1,7 @@
 # Reactor
-A small Swift ReactiveCocoa example
+A small Swift ReactiveCocoa 5 example
 
-Tried ReactiveCocoa for the first time and it is as nice as expected.
+Tried ReactiveCocoa 5 for the first time and it is as nice as expected.
 
 What it does: reacts to user input and reverses the string, everyting done with ReactiveCocoa
 
